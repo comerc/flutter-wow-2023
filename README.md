@@ -16,3 +16,9 @@
 - https://github.com/immich-app/immich 19.7K
 - https://github.com/openfoodfacts/smooth-app 544
 - https://github.com/simonbengtsson/airdash 405
+
+## Идея социально-значимого мега-восстребованного пет-проекта
+
+Распарсить flutterawesome.com на go-colly [см. пример](https://github.com/comerc/try-colly) и сделать свой реестр open source проектов на Flutter для поиска и аналитики с различными срезами. Ещё можно сделать подписку на ежемесячную рассылку дайджестов. Ещё можно сделать бот в Телеге. Ещё можно сделать мониторинг: какие проекты в активной стадии, а какие уже дохлые.
+
+Можно применить: ClickHouse, NATS/RabbitMQ/Kafka, Hasura/GraphQL, GoHugo/NextJS/Flutter!
