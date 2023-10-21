@@ -17,8 +17,8 @@
 - https://github.com/openfoodfacts/smooth-app 544
 - https://github.com/simonbengtsson/airdash 405
 
-## Идея социально-значимого мега-восстребованного пет-проекта
+## Идея социально-значимого мега-восстребованного пет-проекта для вашего портфолио
 
-Распарсить flutterawesome.com на go-colly [см. пример](https://github.com/comerc/try-colly) и сделать свой реестр open source проектов на Flutter для поиска и аналитики с различными срезами. Ещё можно сделать подписку на ежемесячную рассылку дайджестов. Ещё можно сделать бот в Телеге. Ещё можно сделать мониторинг: какие проекты в активной стадии, а какие уже дохлые.
+Распарсить flutterawesome.com и [awesome-flutter](https://github.com/Solido/awesome-flutter) на go-colly [см. пример](https://github.com/comerc/try-colly) и сделать свой реестр open source проектов на Flutter для поиска и аналитики с различными срезами. Ещё можно сделать подписку на ежемесячную рассылку дайджестов. Ещё можно сделать бот в Телеге. Ещё можно сделать мониторинг: какие проекты в активной стадии, а какие уже дохлые.
 
 Можно применить: ClickHouse, NATS/RabbitMQ/Kafka, Hasura/GraphQL, GoHugo/NextJS/Flutter!
