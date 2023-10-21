@@ -2,17 +2,17 @@
 
 Подборка Open Source приложений и решений на Flutter - 2023 год
 
-- https://github.com/krille-chan/fluffychat
-- https://github.com/AppFlowy-IO/AppFlowy
-- https://github.com/livekit/livekit
-- https://github.com/Kounex/obs_blade
+- https://github.com/krille-chan/fluffychat 274
+- https://github.com/AppFlowy-IO/AppFlowy 39.6K
+- https://github.com/livekit/livekit 5.8K
+- https://github.com/Kounex/obs_blade 341
 - https://github.com/fluttercandies
-- https://github.com/mitesh77/Best-Flutter-UI-Templates
-- https://github.com/abuanwar072/Flutter-Responsive-Admin-Panel-or-Dashboard
-- https://github.com/LinwoodDev/Butterfly
-- https://github.com/RevenueCat/purchases-flutter
-- https://github.com/Liso-Vault/app
-- https://github.com/authpass/authpass
-- https://github.com/immich-app/immich
-- https://github.com/openfoodfacts/smooth-app
-- https://github.com/simonbengtsson/airdash
+- https://github.com/mitesh77/Best-Flutter-UI-Templates 18.6K
+- https://github.com/abuanwar072/Flutter-Responsive-Admin-Panel-or-Dashboard 6.1K
+- https://github.com/LinwoodDev/Butterfly 557
+- https://github.com/RevenueCat/purchases-flutter 519
+- https://github.com/Liso-Vault/app 73
+- https://github.com/authpass/authpass 1.9K
+- https://github.com/immich-app/immich 19.7K
+- https://github.com/openfoodfacts/smooth-app 544
+- https://github.com/simonbengtsson/airdash 405
